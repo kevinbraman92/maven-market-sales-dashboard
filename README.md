@@ -88,4 +88,21 @@ Track overall business performance and financial health.
 
 ---
 
-## 📂 Repository Structure
+## 🧠 Learning Outcomes
+Through this project, I practiced and demonstrated:
+- Designing an interactive data model using Power BI  
+- Writing efficient DAX expressions for KPI metrics  
+- Applying conditional formatting for intuitive analysis  
+- Structuring a professional Power BI report with business insights  
+
+---
+
+## 📬 Contact
+**Kevin Braman**  
+📧 [kevinbraman92@gmail.com](mailto:kevinbraman92@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/kevin-braman-a7974a129/)  
+💻 [GitHub](https://github.com/kevinbraman92)
+
+---
+
+⭐ *If you found this project helpful or inspiring, consider starring the repository!*
