@@ -1,6 +1,6 @@
 # 🛒 Maven Market Power BI Dashboard
 
-![Dashboard Overview](images/maven_market_overview.png)
+![Maven_Market](images/Maven_Market.png)
 
 ## 📖 Overview
 The **Maven Market Dashboard** is a professional Power BI project built to demonstrate end-to-end data analysis, modeling, and visualization capabilities.  
