@@ -17,7 +17,22 @@ This project was designed as a **portfolio showcase** to illustrate practical Po
 
 ## 🧩 Project Pages
 
-### 🧱 **1. Product Lookup**
+### 💹 **1. Summary Performance Dashboard**
+![Revenue Dashboard](images/maven_revenue_dashboard.png)
+
+**Purpose:**  
+Track overall business performance and financial health.
+
+**Highlights:**
+- KPIs for transactions, profit, and returns vs. monthly goals
+- Region map visualization (Canada, USA, Mexico)
+- Weekly revenue trend chart
+- Revenue vs. Target gauge
+- Profit margin heatmap by brand
+
+---
+
+### 🧱 **2. Product Lookup**
 ![Product Lookup](images/maven_product_lookup.png)
 
 **Purpose:**  
@@ -30,7 +45,7 @@ Search and filter product details by brand, name, or category attributes.
 
 ---
 
-### 👥 **2. Customer Lookup**
+### 👥 **3. Customer Lookup**
 ![Customer Lookup](images/maven_customer_lookup.png)
 
 **Purpose:**  
@@ -41,21 +56,6 @@ Analyze customer demographics, income brackets, and membership priorities.
 - KPIs for total customers, transactions, gold members, and priority customers
 - Average transaction count per customer
 - Date range filter for account creation
-
----
-
-### 💹 **3. Revenue Performance Dashboard**
-![Revenue Dashboard](images/maven_revenue_dashboard.png)
-
-**Purpose:**  
-Track overall business performance and financial health.
-
-**Highlights:**
-- KPIs for transactions, profit, and returns vs. monthly goals
-- Region map visualization (Canada, USA, Mexico)
-- Weekly revenue trend chart
-- Revenue vs. Target gauge
-- Profit margin heatmap by brand
 
 ---
 
